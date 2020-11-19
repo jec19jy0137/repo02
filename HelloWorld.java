@@ -3,5 +3,7 @@ class HelloWorld{
 	int id;
 	String name;
 	double num;
-	s
+	int abc;
+	int xyz;
+
 }
